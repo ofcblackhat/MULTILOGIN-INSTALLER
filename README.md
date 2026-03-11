@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="client/src/views/assets/img/logo.ico" width="80" alt="Multilogin BlackHat Logo"/>
-
 # 🖤 Multilogin BlackHat
 
 ### O maior arsenal de ferramentas premium do Brasil — dividido entre você e mais ninguém.
